@@ -76,7 +76,8 @@ public class ComputerVirusDetection {
    * qualifies.
    *
    * @param viruses Array of viruses to be evaluated
-   * @param checker Implements the VirusChecker interface
+   * @param checker Implements the VirusChecker interface, all virus instances
+   * in the viruses parameter have been initialized with this instance.
    * @return index of a virus that, with respect to the specified VirusChecker,
    * determines a "most prevalent virus" equivalence class; or
    * NO_VIRUS_QUALIFIES if no virus set in the input qualifies as a "most
