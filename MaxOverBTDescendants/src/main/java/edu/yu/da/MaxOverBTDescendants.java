@@ -15,7 +15,7 @@ public class MaxOverBTDescendants {
    *
    * @param V the number of vertices that will eventually populate the tree,
    * must be >= 1 (because tree must at least have a root)
-   * @param root must be >= 0 and < V-1, and specifies the root vertex of the tree.
+   * @param root must be >= 0 and < V, and specifies the root vertex of the tree.
    * @param value the value associated with the root.
    */
   public MaxOverBTDescendants(final int V, final int root, final double value) {
@@ -23,7 +23,7 @@ public class MaxOverBTDescendants {
   }
 
   /** Connects the specified child vertex to the specified parent (which must
-   * already be connected to the tree)
+   * already be connected to the tree).  All vertex ids  must be >= 0 and < V.
    *
    * @param parent a non-negative integer that identifies a vertex already
    * connected to the tree
