@@ -17,6 +17,7 @@
   <modules>
     <module>ComputerVirusDetection</module>
     <module>MaxOverBTDescendants</module>
+    <module>MaxRectangle</module>
     <module>MedianFinding</module>
   </modules>
 
