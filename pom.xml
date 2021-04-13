@@ -16,7 +16,8 @@
 
   <modules>
     <module>ComputerVirusDetection</module>
-    <module>DPMakingChange</module>    
+    <module>DPMakingChange</module>
+    <module>DPWordWrapping</module>
     <module>MaxOverBTDescendants</module>
     <module>MaxRectangle</module>
     <module>MedianFinding</module>
