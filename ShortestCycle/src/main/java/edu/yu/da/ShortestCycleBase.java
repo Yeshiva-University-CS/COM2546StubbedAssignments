@@ -15,9 +15,9 @@ import java.util.Objects;
 
 abstract public class ShortestCycleBase {
 
-  /** Design note: edge vertices are represented by an integer 0..n-1 where the
-   * number of edges in the graph is n.  Weights can be negative.  This class
-   * represents an undirected edge.
+  /** Design note: edge vertices are represented by an integer 0..n-1
+   * where the number of vertices in the graph is n.  Weights can be
+   * negative.  This class represents an undirected edge.
    */
   public static class Edge {
 
