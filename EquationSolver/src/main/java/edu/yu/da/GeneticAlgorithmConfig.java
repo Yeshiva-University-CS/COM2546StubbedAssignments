@@ -25,10 +25,11 @@ public class GeneticAlgorithmConfig {
    * @param selectionType specifies how parents are chosen to reproduce
    * @param mutationProbability the probability that a chromosone instance will
    * mutate, must be greater than 0.0 and not exceed 1.0
-   * @param crossoverProbability the probability that two parents selected to
-   * reproduce will have a child that is a mixture of the parents' genes;
-   * otherwise, the parents two children that are duplicates of the two
-   * parents, must be be >= 0.0 and <= 1.0
+   * @param crossoverProbability the probability that two parents
+   * selected to reproduce will have a child that is a mixture of the
+   * parents' genes; otherwise, the parents will have two children
+   * that are duplicates of the two parents. The value must be be between
+   * 0.0 (inclusive) and 1.0 (inclusive).
    */
   public GeneticAlgorithmConfig(final int initialPopulationSize,
                                 final int maxGenerations,
