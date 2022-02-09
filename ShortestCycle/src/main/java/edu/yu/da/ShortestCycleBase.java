@@ -66,7 +66,10 @@ abstract public class ShortestCycleBase {
     @Override
     public int hashCode() {
       // If performance suffers, supply a by-hand implementation
-      return Objects.hash(v(), w(), weight());
+      //
+      // per S Newmark: hashCode must maintain the same "edge with
+      // inverted vertices is equal to the original edge" semantics
+	return Objects.hash(v() * w(), weight());
     }
 
     @Override
