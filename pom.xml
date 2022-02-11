@@ -22,6 +22,8 @@
     <module>MaxOverBTDescendants</module>
     <module>MaxRectangle</module>
     <module>MedianFinding</module>
+    <module>MultiMerge</module>    
+    <module>ShortestCycle</module>
   </modules>
 
   <build>
