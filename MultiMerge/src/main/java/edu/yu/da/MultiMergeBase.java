@@ -19,6 +19,9 @@ abstract public class MultiMergeBase {
 
   /** Does a divide-and-conquer mergesort on the z integer-valued arrays (first
    * dimension is the ith array).
+   * 
+   * Note: the client maintains ownership of the input parameter,
+   * i.e., invoking this method is a non-destructive operation.
    *
    * @param arrays z (z >= 1) integer valued arrays, each of which is sorted,
    * and of identical size n where n>0 and need not be a power of two.  Results
