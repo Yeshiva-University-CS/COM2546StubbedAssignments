@@ -20,8 +20,9 @@ public class GeneticAlgorithmConfig {
    * be > 0.
    * @param maxGenerations the genetic algorithm stops if the number of
    * generations exceeds this value, must be > 0.
-   * @param threshold the genetic algorithm stops if a chromosome's fitness is
-   * >= the threshold.
+   * @param threshold the genetic algorithm stops if a chromosome's
+   * fitness is >= the threshold.  The threshold's semantics are
+   * closely related to DataCompression.relativeImprovement().
    * @param selectionType specifies how parents are chosen to reproduce
    * @param mutationProbability the probability that a chromosone instance will
    * mutate, must be greater than 0.0 and not exceed 1.0
