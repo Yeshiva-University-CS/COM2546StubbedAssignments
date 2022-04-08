@@ -26,6 +26,7 @@
     <module>MedianFinding</module>
     <module>MultiMerge</module>    
     <module>ShortestCycle</module>
+    <module>StockYourBookshelf</module> 
     <module>WaitNoMore</module>  
   </modules>
 
