@@ -15,6 +15,7 @@
   </properties>
 
   <modules>
+    <module>ArithmeticPuzzle</module>
     <module>ComputerVirusDetection</module>
     <module>DataCompression</module>
     <module>DPMakingChange</module>
