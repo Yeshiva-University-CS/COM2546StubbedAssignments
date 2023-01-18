@@ -21,6 +21,7 @@
     <module>DPMakingChange</module>
     <module>DPWordWrapping</module>
     <module>EquationSolver</module>
+    <module>FindMinyan</module>
     <module>HelpFromRabbeim</module>
     <module>MaximizePayout</module>
     <module>MaxOverBTDescendants</module>
