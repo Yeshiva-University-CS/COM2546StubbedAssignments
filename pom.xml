@@ -15,12 +15,14 @@
   </properties>
 
   <modules>
+    <module>ArithmeticPuzzle</module>
     <module>ComputerVirusDetection</module>
     <module>DataCompression</module>
     <module>DetectTerrorist</module>    
     <module>DPMakingChange</module>
     <module>DPWordWrapping</module>
     <module>EquationSolver</module>
+    <module>FindMinyan</module>
     <module>HelpFromRabbeim</module>
     <module>MaximizePayout</module>
     <module>MaxOverBTDescendants</module>
