@@ -17,6 +17,7 @@
   <modules>
     <module>ComputerVirusDetection</module>
     <module>DataCompression</module>
+    <module>DetectTerrorist</module>    
     <module>DPMakingChange</module>
     <module>DPWordWrapping</module>
     <module>EquationSolver</module>
