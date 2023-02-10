@@ -31,7 +31,8 @@
     <module>MultiMerge</module>    
     <module>ShortestCycle</module>
     <module>StockYourBookshelf</module> 
-    <module>WaitNoMore</module>  
+    <module>WaitNoMore</module>
+    <module>WeAreAllConnected</module>      
   </modules>
 
   <build>
