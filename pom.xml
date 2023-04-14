@@ -17,6 +17,7 @@
   <modules>
     <module>ArithmeticPuzzle</module>
     <module>ComputerVirusDetection</module>
+    <module>DamConstruction</module>
     <module>DataCompression</module>
     <module>DetectTerrorist</module>    
     <module>DPMakingChange</module>
