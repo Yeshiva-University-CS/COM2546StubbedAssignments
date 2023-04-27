@@ -29,7 +29,8 @@
     <module>MaxOverBTDescendants</module>
     <module>MaxRectangle</module>
     <module>MedianFinding</module>
-    <module>MultiMerge</module>    
+    <module>MultiMerge</module>
+    <module>OverfullGranaries</module>        
     <module>ShortestCycle</module>
     <module>StockYourBookshelf</module> 
     <module>WaitNoMore</module>
