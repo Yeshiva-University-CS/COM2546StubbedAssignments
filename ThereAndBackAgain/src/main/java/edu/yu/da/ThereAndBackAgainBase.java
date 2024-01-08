@@ -22,6 +22,8 @@ public abstract class ThereAndBackAgainBase {
   /** Constructor which supplies the start vertex
    *
    * @param startVertex, length must be > 0.
+   * @throws IllegalArgumentException if the pre-condiitions are
+   * violated
    */
   public ThereAndBackAgainBase(String startVertex) {
     // sub-class may want to add more function!
