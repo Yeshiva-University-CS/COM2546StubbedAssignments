@@ -29,7 +29,8 @@
     <module>MaxRectangle</module>
     <module>MedianFinding</module>
     <module>MultiMerge</module>
-    <module>OverfullGranaries</module>        
+    <module>OverfullGranaries</module>
+    <module>PickAYeshiva</module>
     <module>ShortestCycle</module>
     <module>StockYourBookshelf</module> 
     <module>ThereAndBackAgain</module>
