@@ -15,6 +15,7 @@
 
   <modules>
     <module>ArithmeticPuzzle</module>
+    <module>BeatThePricingSchemes</module>    
     <module>ComputerVirusDetection</module>
     <module>DamConstruction</module>
     <module>DataCompression</module>
