@@ -25,6 +25,7 @@
     <module>EquationSolver</module>
     <module>FindMinyan</module>
     <module>HelpFromRabbeim</module>
+    <module>MatzoDistribution</module>
     <module>MaximizePayout</module>
     <module>MaxOverBTDescendants</module>
     <module>MaxRectangle</module>
