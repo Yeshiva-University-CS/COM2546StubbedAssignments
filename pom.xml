@@ -30,6 +30,7 @@
     <module>MaximizePayout</module>
     <module>MaxOverBTDescendants</module>
     <module>MaxRectangle</module>
+    <module>MaxTheKiddush</module>
     <module>MedianFinding</module>
     <module>MultiMerge</module>
     <module>OverfullGranaries</module>
