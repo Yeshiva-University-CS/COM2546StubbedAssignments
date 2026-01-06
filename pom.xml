@@ -22,6 +22,7 @@
     <module>DetectTerrorist</module>    
     <module>DPMakingChange</module>
     <module>DPWordWrapping</module>
+    <module>DroneTransmission</module>    
     <module>EquationSolver</module>
     <module>ExtendTheLightRail</module>    
     <module>FindMinyan</module>
