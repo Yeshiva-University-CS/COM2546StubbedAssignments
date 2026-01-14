@@ -37,6 +37,7 @@
     <module>MinimizeLinelandTaxes</module>
     <module>MusicalChairs</module>  
     <module>MultiMerge</module>
+    <module>NestedDAndC</module>    
     <module>OverfullGranaries</module>
     <module>PickAYeshiva</module>
     <module>ShortestCycle</module>
