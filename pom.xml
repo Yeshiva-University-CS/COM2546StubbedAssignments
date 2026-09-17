@@ -43,6 +43,7 @@
     <module>PackageDelivery</module>
     <module>PickAYeshiva</module>
     <module>RestroomBreaks</module>
+    <module>SchemaPropagation</module>
     <module>ShortestCycle</module>
     <module>SinkholeFinder</module>  
     <module>SpheresOfInfluence</module>	
